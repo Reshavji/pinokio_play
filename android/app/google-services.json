@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955133769342",
+    "project_id": "pinokio-play-app",
+    "storage_bucket": "pinokio-play-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955133769342:android:1d6dd09370e45ab902ca2f",
+        "android_client_info": {
+          "package_name": "com.example.pinokio_play"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsxskCYweM20_zsw7lU1B39XFX54pXy4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
